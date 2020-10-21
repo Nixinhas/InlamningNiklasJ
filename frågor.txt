@@ -1,0 +1,15 @@
+När använder man add respektive commit?
+- Add lägger till en ändring till staging area.
+- Commit "commitar" dina add-filer och skapar nya revisions med en logg
+
+Vad är pull respektive push?
+- Push skickar alla dina lokala commits till GitHub.
+- Pull hämtar ändringar från Github och mergar dem med ditt lokala repository
+
+När använder man log respektive status?
+- Log visar commits. Man kan se commit-historik osv.
+- Status visar din arbetskatalog samt staging area och vilka filer som t.ex inte har blivit commitade.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+- Kort och enkelt. Man bör beskriva vad man har gjort, t.ex "adding main class"
+
